@@ -1,4 +1,4 @@
-# Testando Interatividades
+# Contagem personalizada com JavaScript
 
 📋📱💻 Projeto desenvolvido em HTML, CSS e JavaScript, focado em criar uma página web interativa e responsiva, com funcionalidades de contagem dinâmica para praticar conceitos de manipulação de DOM e eventos.
 
