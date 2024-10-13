@@ -2,7 +2,7 @@
 
 📋📱💻 Projeto desenvolvido em HTML, CSS e JavaScript, focado em criar uma página web interativa e responsiva, com funcionalidades de contagem dinâmica para praticar conceitos de manipulação de DOM e eventos.
 
-🌐🎨 O objetivo é aplicar conhecimentos de HTML, CSS e JavaScript, implementando um contador interativo que permite aos usuários inserir valores e acompanhar uma contagem personalizada. O projeto também explora técnicas de layout responsivo para garantir uma boa experiência em diferentes dispositivos.
+🌐🎨 O objetivo é aplicar conhecimentos de HTML, CSS e JavaScript, implementando um contador interativo que permite aos usuários inserir valores e acompanhar uma contagem personalizada. O projeto também explora técnicas de layout responsivo para garantir uma boa experiência em diferentes tamanhos de tela.
 
 ## Funcionalidades
 
